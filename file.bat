@@ -1,2 +1,3 @@
 @echo off
-cmd start
+echo Hello, user!
+pause
